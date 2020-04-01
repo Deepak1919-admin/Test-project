@@ -1,2 +1,2 @@
 # Test-project
-This is use for testing
+Welcome to he ChicMic
