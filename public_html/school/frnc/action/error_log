@@ -1,0 +1,12 @@
+[12-Feb-2016 04:34:27 UTC] PHP Warning:  require_once(../commonclass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/global1/action/forgot.php on line 5
+[12-Feb-2016 04:34:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../commonclass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a2itsolutions/public_html/global1/action/forgot.php on line 5
+[12-Feb-2016 04:34:57 UTC] PHP Warning:  require_once(../commonclass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/global1/action/forgot.php on line 5
+[12-Feb-2016 04:34:57 UTC] PHP Fatal error:  require_once(): Failed opening required '../commonclass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a2itsolutions/public_html/global1/action/forgot.php on line 5
+[18-Jun-2016 04:02:06 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[18-Jun-2016 04:02:06 America/Chicago] PHP Notice:  Undefined index: fabric_id in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/frnc/action/cartaction.php on line 12
+[18-Jun-2016 04:02:06 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/frnc/action/cartfunction.php on line 5
+[18-Jun-2016 04:02:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[18-Jun-2016 04:39:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[18-Jun-2016 04:39:33 America/Chicago] PHP Notice:  Undefined index: fabric_id in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/frnc/action/cartaction.php on line 12
+[18-Jun-2016 04:39:33 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/frnc/action/cartfunction.php on line 5
+[18-Jun-2016 04:39:36 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2

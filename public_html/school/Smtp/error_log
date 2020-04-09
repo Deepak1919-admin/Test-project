@@ -1,0 +1,10 @@
+[27-May-2016 04:09:21 America/Chicago] PHP Warning:  Missing argument 9 for SMTPClient::SMTPClient(), called in /home/a21a90b7/public_html/Smtp/index.php on line 10 and defined in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 7
+[27-May-2016 04:09:21 America/Chicago] PHP Warning:  Missing argument 10 for SMTPClient::SMTPClient(), called in /home/a21a90b7/public_html/Smtp/index.php on line 10 and defined in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 7
+[27-May-2016 04:09:21 America/Chicago] PHP Notice:  Undefined variable: headers in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 15
+[27-May-2016 04:09:21 America/Chicago] PHP Notice:  Undefined variable: body in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 19
+[27-May-2016 04:09:22 America/Chicago] PHP Notice:  Undefined variable: HTTP_HOST in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 39
+[27-May-2016 04:19:07 America/Chicago] PHP Warning:  Missing argument 9 for SMTPClient::SMTPClient(), called in /home/a21a90b7/public_html/Smtp/index.php on line 10 and defined in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 7
+[27-May-2016 04:19:07 America/Chicago] PHP Warning:  Missing argument 10 for SMTPClient::SMTPClient(), called in /home/a21a90b7/public_html/Smtp/index.php on line 10 and defined in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 7
+[27-May-2016 04:19:07 America/Chicago] PHP Notice:  Undefined variable: headers in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 15
+[27-May-2016 04:19:07 America/Chicago] PHP Notice:  Undefined variable: body in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 19
+[27-May-2016 04:19:07 America/Chicago] PHP Notice:  Undefined variable: HTTP_HOST in /home/a21a90b7/public_html/Smtp/SMTPClass.php on line 39

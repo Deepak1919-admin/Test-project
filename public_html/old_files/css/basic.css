@@ -1,0 +1,100 @@
+body { background: #333 url(../images/gradient_bg.png) repeat-x; color: #666; font-size: small; }
+
+
+#main-banner { margin-bottom: 35px; }
+
+#branding { height: 95px; }
+	#branding img { padding-top: 35px;}
+
+#main-nav {float: right; }
+	#main-nav li { float: left; list-style: none; margin: 0;   }
+	#main-nav li a { color: #999; text-decoration: none; text-transform: uppercase; font-size: 15px;  display: block; padding: 0 20px; padding-top: 32px; margin-left: 1px; }
+	#main-nav li a.active { background: url(../images/active_menu_bg.png); color: #fff; }
+	#main-nav li a:hover { color: #ccc; }
+
+h4 { color: #ccc; text-transform: uppercase; margin: 10px 0; }
+
+#footer { font-size: 11px; padding-top: 50px; color: #666; }
+#footer a { color: #999; text-decoration: none; }
+
+	#footer .grid_2 { text-align: right; }
+
+p#intro { font-size: 16px; color: #ccc;  }
+
+.intro-para p#intro { font-size: 20px; color: #fff; padding: 30px 25px;  }
+
+
+
+#slides { position: relative; }
+	.slides_container { width:940px; height:640px; }
+	.slides_container div { width:940px; height:640px; display:block; }
+	#slides .next,#slides .prev { position:absolute; top:250px; left:45px; width:42px; height:112px; display:block; z-index:501; }
+	#slides .next { left:850px; }
+	.pagination { margin-top: 25px;  }
+		.pagination li { float: left; list-style: none; margin-left: 25px;   }
+		.pagination li a { color: #666; text-decoration: none; font-size: 12px;  }
+		.pagination li.current a { color: #fff;}
+
+
+#slides2 { position: relative;  }
+	#slides2 .slides_container { width:940px; height:465px; }
+	#slides2 .slides_container div { width:940px; height:465px; display:block; }
+
+		.pagination2 { display: none;  }
+		
+#clients-list { margin-top: 30px; }
+#clients-list .grid_4 { margin-bottom: 50px; }
+
+.intro-para { height: 450px; background: #999; margin-bottom: 30px;  }
+
+#content-area { color: #fff; }
+
+.lightbox-img { margin-bottom: 25px; }
+
+#products ul { float: left; margin:0 20px 20px 20px; }
+#products h4 { margin-left:20px; }
+#infra { padding: 10px 30px 10px 30px ; }
+
+
+#contact-wrapper {
+	width:300px;
+	font-family:Arial, Tahoma, Helvetica, sans-serif;
+}
+#contact-wrapper div {
+	clear:both;
+	margin:1em 0;
+}
+#contact-wrapper label {
+	display:block;
+	float:none;
+	font-size:16px;
+	width:auto;
+}
+form#contactform input {
+
+	border: none;
+	padding:5px;
+	font-size:16px;
+	color:#333;
+	width:300px;
+}
+
+form#contactform input[type=submit] {
+	width:100px;
+}	
+
+
+form#contactform textarea {
+	font-size:100%;
+	padding:0.6em 0.5em 0.7em;
+	width:300px;
+	font-family:Arial, Tahoma, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+.error { color:orange; }
+
+p#message-success { color:orange;  }
+
+
+			

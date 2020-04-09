@@ -1,0 +1,38 @@
+[26-Mar-2016 09:22:37 UTC] PHP Warning:  include(../commonClass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:22:37 UTC] PHP Warning:  include(../commonClass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:22:37 UTC] PHP Warning:  include(): Failed opening '../commonClass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:22:37 UTC] PHP Fatal error:  Call to a member function GetRowContent() on a non-object in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 6
+[26-Mar-2016 09:23:05 UTC] PHP Warning:  include(../commonClass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:23:05 UTC] PHP Warning:  include(../commonClass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:23:05 UTC] PHP Warning:  include(): Failed opening '../commonClass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:23:05 UTC] PHP Fatal error:  Call to a member function GetRowContent() on a non-object in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 6
+[26-Mar-2016 09:28:31 UTC] PHP Warning:  include(../commonClass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:28:31 UTC] PHP Warning:  include(../commonClass.php): failed to open stream: No such file or directory in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:28:31 UTC] PHP Warning:  include(): Failed opening '../commonClass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 4
+[26-Mar-2016 09:28:31 UTC] PHP Fatal error:  Call to a member function GetRowContent() on a non-object in /home/a2itsolutions/public_html/dreamuniform/frnc/payment.php on line 6
+[26-Mar-2016 09:30:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a2itsolutions/public_html/dreamuniform/frnc/header_inner.php:48) in /home/a2itsolutions/public_html/dreamuniform/frnc/checkout.php on line 12
+[26-Mar-2016 09:30:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a2itsolutions/public_html/dreamuniform/frnc/header_inner.php:48) in /home/a2itsolutions/public_html/dreamuniform/frnc/checkout.php on line 12
+[26-Mar-2016 09:36:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a2itsolutions/public_html/dreamuniform/frnc/header_inner.php:48) in /home/a2itsolutions/public_html/dreamuniform/frnc/checkout.php on line 12
+[26-Mar-2016 09:37:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a2itsolutions/public_html/dreamuniform/frnc/header_inner.php:48) in /home/a2itsolutions/public_html/dreamuniform/frnc/checkout.php on line 12
+[02-Apr-2016 16:36:30 UTC] PHP Fatal error:  Call to undefined method ProductPrice::GetRowContentByproductid() in /home/a2itsolutions/public_html/dreamuniform/arab/detail.php on line 7
+[18-Apr-2016 09:11:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dreamuni/public_html/shopping/arab/thankyou.php on line 235
+[22-Apr-2016 07:55:47 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dreamuni/public_html/shopping/arab/thankyou.php on line 236
+[22-Apr-2016 07:56:49 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dreamuni/public_html/shopping/arab/thankyou.php on line 236
+[01-Jun-2016 23:30:52 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[01-Jun-2016 23:30:52 America/Chicago] PHP Notice:  Undefined variable: _SEESION in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 49
+[01-Jun-2016 23:30:52 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 96
+[01-Jun-2016 23:31:10 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[01-Jun-2016 23:31:10 America/Chicago] PHP Notice:  Undefined variable: _SEESION in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 49
+[01-Jun-2016 23:31:10 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 96
+[01-Jun-2016 23:31:11 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[01-Jun-2016 23:31:11 America/Chicago] PHP Notice:  Undefined variable: _SEESION in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 49
+[01-Jun-2016 23:31:11 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 96
+[13-Jun-2016 02:18:41 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[13-Jun-2016 02:18:41 America/Chicago] PHP Notice:  Undefined variable: _SEESION in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 49
+[13-Jun-2016 02:18:41 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 96
+[13-Jun-2016 02:19:33 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[13-Jun-2016 02:19:33 America/Chicago] PHP Notice:  Undefined variable: _SEESION in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 49
+[13-Jun-2016 02:19:33 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 96
+[16-Jun-2016 01:43:07 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/lib/class.Users.php on line 2
+[16-Jun-2016 01:43:07 America/Chicago] PHP Notice:  Undefined variable: _SEESION in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 49
+[16-Jun-2016 01:43:07 America/Chicago] PHP Notice:  Undefined index: cart in /home/a21a90b7/public_html/dreamuniformswebsite/shopping/arab/header_inner.php on line 96
